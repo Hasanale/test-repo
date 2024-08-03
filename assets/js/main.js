@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", function() {
     $(".fea_products").owlCarousel({
     dots: true,
     loop: true,
-    autoplay: false,
+    autoplay: true,
     slideSpeed : 2000,
     margin: 0,
     responsiveClass: true,
